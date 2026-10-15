@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RezSaf
-- 👀 I’m interested in somethings
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on something
+- 👀 I’m interested in coding
+- 🌱 I’m currently developing new apps
+- 💞️ I’m looking to collaborate with indie builders
 - 📫 You can reach me by email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am funny
