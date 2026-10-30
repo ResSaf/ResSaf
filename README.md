@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Reza Saffari
-- 👀 I’m interested in coding
-- 🌱 I’m currently developing new apps
-- 💞️ I’m looking to collaborate with indie builders
-- 📫 You can reach me by email
-- 😄 Pronouns: He/Him
+- Hi, I'm @ResSaf
+- I'm interested in coding
+- I'm currently developing new apps
+- You can reach me by email
+- Pronouns: He/Him
 
 # Reza Saffari
 
@@ -14,14 +13,10 @@ I build what I propose:
 - Python and FastAPI tools with PostgreSQL and Slack integrations
 - LLM pipelines on the Claude API, from document parsing to customer-facing reports
 - [Snappmat](https://snappmat.app), a recipe app live on the App Store and Google Play, built with coding agents (Expo, Supabase)
+- [El-klockan](https://elklockan.lovable.app), a bilingual web app that asks you to guess today's three cheapest electricity hours and shows what the timing is actually worth, with an AI layer on the Claude API
 
 M.Sc. Electrical Engineering, KTH.
 
 [LinkedIn](https://www.linkedin.com/in/reza-saffari-se/) · [proximiti.se](https://proximiti.se) · r.saffari@proximiti.se
 
-I build with the conviction that less is more. 
-
-<!---
-ResSaf/ResSaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build with the conviction that less is more.
